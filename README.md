@@ -1,8 +1,8 @@
-## Grub - GoFood Clone
+## Grub - GoFood 
 
 GoFood, Savor the flavor! We deliver delicious pizzas, burgers, and fast food straight to your door. Order via WhatsApp or visit GoFood.com. Located in Arusha. 🚗
 
-<img src="https://sergeycodenameone.github.io/GoFood--clone-banner.jpg" width="600"></img>
+<img src="https://sergeycodenameone.github.io/GoFood---banner.jpg" width="600"></img>
 
 This app was designed as a proof of concept for the [CodeRAD library](https://github.com/shannah/CodeRAD), which facilitates the development of rich, reusable UI components for Codename One.  It contains everything you should need to build a rich and reusable app with the Rapid application development principles.
 
